@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Julius;
+    src: url('../fonts/JuliusSansOne-Regular.ttf') format('truetype')
+}
+
+
+body {
+    font-family: Julius, Arial, Helvetica, sans-serif;
+    background-color: #F5F5F5;
+}
+.center {
+    margin: auto;
+    max-width: 500px;
+    
+}
+
+.table {
+    margin: auto;
+}
+
+td {
+    padding: 0em 1em;
+}
+
+img {
+    width: 100%;
+}
+
+li {
+    margin-bottom: 2em;
+    margin-top: 1em;
+}
